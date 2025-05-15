@@ -1,0 +1,9 @@
+
+
+
+# Avoid versioning .env files
+.env
+**/.env
+
+
+
